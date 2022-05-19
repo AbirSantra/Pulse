@@ -1,0 +1,35 @@
+.agenda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.agenda-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.agenda .sub-title{
+    color: var(--main-yellow);
+}
+
+.agenda-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.agenda-time{
+    color: var(--main-grey);
+    font-size: 0.9rem;
+}
+
+.agenda-name{
+    font-size: 1.6rem;
+    font-weight: 600;
+}
