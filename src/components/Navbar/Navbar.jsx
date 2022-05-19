@@ -20,7 +20,13 @@ const Navbar = () => {
                         <a href="#rules">Contact</a>
                     </div> */}
                     <div className="navlink main-btn nav-btn">
-                        <a href="#rules">Register</a>
+                        <a
+                            href="https://forms.gle/w7XehjHbNn7MkNhk7"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            Register
+                        </a>
                     </div>
                 </div>
             </div>

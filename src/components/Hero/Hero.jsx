@@ -64,10 +64,16 @@ const Hero = () => {
                 </div>
                 <div className="cta-buttons">
                     <div className="main-btn">
-                        <a href="#rules">Register Now &gt;</a>
+                        <a
+                            href="https://forms.gle/w7XehjHbNn7MkNhk7"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            Register Now &gt;
+                        </a>
                     </div>
                     <div className="secondary-btn">
-                        <a href="#rules">Learn More &gt;</a>
+                        <a href="#about">Learn More &gt;</a>
                     </div>
                 </div>
                 <div className="countdown">

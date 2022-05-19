@@ -13,12 +13,15 @@ const Contact = () => {
                         If you have any questions, feel free to contact us at
                         Room 202, 2nd Floor.
                     </div>
-                    <div>You can also call or message our event Incharge.</div>
+                    <div>You can also call or message our event Incharges.</div>
                     <div>
                         <span className="contact-heading">
-                            Student Incharge
+                            Student Incharges
                         </span>
                         <div>Soumitra Mukherjee: +91 89109 96673</div>
+                        <div>Saikat Dey: +91 70019 51845</div>
+                        <div>Srijit Sarkar: +91 94329 02403</div>
+                        <div>Sarnendu Paul: +91 89109 96673</div>
                     </div>
                 </div>
             </div>

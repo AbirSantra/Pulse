@@ -8,7 +8,7 @@ import CodeHunt from "../../img/treasure-map.png";
 
 const About = () => {
     return (
-        <div className="about section">
+        <div className="about section" id="about">
             <div className="about-content container">
                 <div className="section-header">
                     <div className="sub-title">ABOUT THE EVENT</div>
