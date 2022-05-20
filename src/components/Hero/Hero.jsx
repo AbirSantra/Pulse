@@ -49,7 +49,8 @@ const Hero = () => {
     return (
         <div className="hero">
             <Navbar></Navbar>
-            <div className="hero-content container">
+
+            <div className="container hero-content">
                 <div className="hero-content-text">
                     <div className="heading">Introducing</div>
                     <div className="main-title">
@@ -63,6 +64,9 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="cta-buttons">
+                    <div className="secondary-btn">
+                        <a href="#about">Learn More &gt;</a>
+                    </div>
                     <div className="main-btn">
                         <a
                             href="https://forms.gle/w7XehjHbNn7MkNhk7"
@@ -71,9 +75,6 @@ const Hero = () => {
                         >
                             Register Now &gt;
                         </a>
-                    </div>
-                    <div className="secondary-btn">
-                        <a href="#about">Learn More &gt;</a>
                     </div>
                 </div>
                 <div className="countdown">

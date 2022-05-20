@@ -17,8 +17,8 @@ const App = () => {
             <About></About>
             <Venue></Venue>
             <Rules></Rules>
-            <Agenda></Agenda>
             <Prizes></Prizes>
+            <Agenda></Agenda>
             <Contact></Contact>
             <Cta></Cta>
             <Footer></Footer>

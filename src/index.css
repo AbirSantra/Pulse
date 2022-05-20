@@ -47,7 +47,7 @@ img{
     margin: 0 auto;
     padding: 0 4rem;
     position: relative;
-    z-index: 5;
+    /* z-index: 5; */
 }
 
 .section {

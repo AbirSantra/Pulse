@@ -3,7 +3,7 @@ import "./Agenda.css";
 
 const Agenda = () => {
     return (
-        <div className="agenda section">
+        <div className="agenda section" id="agenda">
             <div className="agenda-content container">
                 <div className="section-header">
                     <div className="sub-title">SCHEDULE & AGENDA</div>

@@ -8,7 +8,7 @@ import Present from "../../img/presents.png";
 
 const Prizes = () => {
     return (
-        <div className="prizes section">
+        <div className="prizes section" id="prizes">
             <div className="prizes-content container">
                 <div className="section-header">
                     <div className="sub-title">PRIZES</div>
@@ -30,7 +30,7 @@ const Prizes = () => {
                         </div>
                         <div className="prize-info">
                             E-Certificate for all participants and physical
-                            certificates for winners
+                            certificates for top 3 teams.
                         </div>
                     </div>
                     <div className="prize-card">
@@ -47,7 +47,7 @@ const Prizes = () => {
                             <img src={Present} alt="prize-icon" />
                         </div>
                         <div className="prize-info">
-                            Exiciting prizes for top 3 teams + physical
+                            Exiciting prizes for Top 3 teams + physical
                             certificates
                         </div>
                     </div>

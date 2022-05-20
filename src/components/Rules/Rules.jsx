@@ -2,7 +2,7 @@ import React from "react";
 import "./Rules.css";
 const Rules = () => {
     return (
-        <div className="rules section">
+        <div className="rules section" id="rules">
             <div className="rules-content container">
                 <div className="section-header">
                     <div className="sub-title">RULES & REGULATIONS</div>
@@ -11,9 +11,12 @@ const Rules = () => {
                 <div className="rules-text">
                     <div>
                         Register through the Google Form link provided or click
-                        on Register on this site.
+                        on Register here.
                     </div>
-                    <div>Two members of the same department per team.</div>
+                    <div>
+                        Two members per team. Inter-department teams are
+                        allowed.
+                    </div>
                     <div>
                         Rs. 40 entry fee per team to be paid in cash. On
                         successful registration and payment you will be issued a
@@ -25,8 +28,17 @@ const Rules = () => {
                     </div>
                     <div>
                         Students must also bring their own pens and water
-                        bottles.
+                        bottles, masks and sanitizers.
                     </div>
+                </div>
+                <div className="main-btn">
+                    <a
+                        href="https://forms.gle/w7XehjHbNn7MkNhk7"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        Register Now &gt;
+                    </a>
                 </div>
             </div>
         </div>

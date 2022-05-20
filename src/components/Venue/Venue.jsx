@@ -5,7 +5,7 @@ import Address from "../../img/address.png";
 
 const Venue = () => {
     return (
-        <div className="venue section">
+        <div className="venue section" id="venue">
             <div className="venue-content container">
                 <div className="section-header">
                     <div className="sub-title">DATE AND VENUE</div>
