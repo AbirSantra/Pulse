@@ -11,7 +11,7 @@ const Agenda = () => {
                 </div>
                 <div className="agenda-text">
                     <div className="agenda-time">10:00 AM - 10:30 AM</div>
-                    <div className="agenda-name">Inaugaration</div>
+                    <div className="agenda-name">Inauguration</div>
                 </div>
                 <div className="agenda-text">
                     <div className="agenda-time">11:00 AM - 11:30 AM</div>
