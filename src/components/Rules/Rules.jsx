@@ -18,9 +18,9 @@ const Rules = () => {
                         allowed.
                     </div>
                     <div>
-                        Rs. 40 entry fee per team to be paid in cash. On
-                        successful registration and payment you will be issued a
-                        receipt
+                        Rs. 40 entry fee per team to be paid in cash at room no.
+                        A213 (2nd Floor) On successful registration and payment
+                        you will be issued a receipt
                     </div>
                     <div>
                         Participants must carry their college ID card along with
