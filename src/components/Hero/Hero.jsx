@@ -4,10 +4,10 @@ import Navbar from "../Navbar/Navbar";
 import "./Hero.css";
 
 const Hero = () => {
-    const [timerDays, setTimerDays] = useState();
-    const [timerHours, setTimerHours] = useState();
-    const [timerMins, setTimerMins] = useState();
-    const [timerSecs, setTimerSecs] = useState();
+    const [timerDays, setTimerDays] = useState("00");
+    const [timerHours, setTimerHours] = useState("00");
+    const [timerMins, setTimerMins] = useState("00");
+    const [timerSecs, setTimerSecs] = useState("00");
 
     let interval;
 
